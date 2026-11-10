@@ -59,8 +59,12 @@ Instalator nie jest jeszcze podpisany certyfikatem, dlatego przy pierwszym uruch
 
 Błędy i pomysły zgłaszaj w zakładce [Issues](https://github.com/mayaa79/SystemHero/issues). Jeśli program Ci się przydał, zostaw ⭐: dzięki temu łatwiej go znaleźć innym.
 
+## Licencja
+
+SystemHero jest darmowy (freeware) do użytku prywatnego i firmowego. Szczegóły: [LICENSE.md](LICENSE.md).
+
 ---
 
 ### English
 
-**SystemHero** is a free Windows 10/11 utility for cleaning, speeding up and repairing your PC: one-click scan of 13 areas, startup manager, performance profiles, Smart RAM, disk health (SMART), Windows repair (DISM/SFC), uninstaller, duplicate and large file finder, disk usage tree and more. Every change is backed up and can be undone. No ads, no account. The interface is currently in Polish. [Download the latest installer](https://github.com/mayaa79/SystemHero/releases/latest).
+**SystemHero** is a free Windows 10/11 utility for cleaning, speeding up and repairing your PC: one-click scan of 13 areas, startup manager, performance profiles, Smart RAM, disk health (SMART), Windows repair (DISM/SFC), uninstaller, duplicate and large file finder, disk usage tree and more. Every change is backed up and can be undone. No ads, no account. The interface is currently in Polish. [Download the latest installer](https://github.com/mayaa79/SystemHero/releases/latest). Freeware, see [LICENSE.md](LICENSE.md).
