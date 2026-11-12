@@ -114,4 +114,4 @@ Download `SystemHero-Setup-<version>.exe` and run it. The installer contains eve
 
 **Contact.** Author: Marcin Majewski, ul. Poprzeczna 7b/6, 75-841 Koszalin, Poland, e-mail: [mmajewski.mmm@gmail.com](mailto:mmajewski.mmm@gmail.com). Bugs and ideas: [Issues](https://github.com/mayaa79/SystemHero/issues).
 
-Freeware for private and business use, see [LICENSE.md](LICENSE.md).
+Freeware for private and business use, see [LICENSE-en.md](LICENSE-en.md) (English) or [LICENSE.md](LICENSE.md) (Polish).
